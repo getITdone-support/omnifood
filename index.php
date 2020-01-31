@@ -4,11 +4,11 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <link rel="stylesheet" href="../vandors/css/normalize.css">
-        <link rel="stylesheet" href="./css/style.css">
+        <link rel="stylesheet" href="/vandors/css/normalize.css">
+        <link rel="stylesheet" href="resources/css/style.css">
         <link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400&display=swap" rel="stylesheet">
         <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
-        <link rel="stylesheet" href="../vandors/css/Grid.css">
+        <link rel="stylesheet" href="vandors/css/Grid.css">
         <title>Omifood</title>
     </head>
 
@@ -17,7 +17,7 @@
         <header>
             <nav>
                 <div class="row">
-                    <img src="./css/img/logo-white.png" alt="logo" class="logo">
+                    <img src="/resources/img/logo-white.png" alt="logo" class="logo">
                     <ul class="main-nav">
                         <li><a href="#">Food delivery</a></li>
                         <li><a href="#">How it works</a></li>
